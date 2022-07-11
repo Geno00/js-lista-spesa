@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    text-align: center;
+
+}
+
+#Lista{
+    border-radius: 100px;
+    text-align: center;
+    margin-top: 70px;
+    font-size: x-large;
+    background-color: white;
+}
+
